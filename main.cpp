@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 
+//short for sum of squared risiduals
 double ssr(const std::vector<double>& x, const std::vector<double>& y, double gradient, double yint) {
     double sum = 0.0;
     for (size_t i = 0; i < x.size(); ++i) {
