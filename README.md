@@ -8,7 +8,7 @@ We use gradient descent on it
 
 Gradient descent
 A way to get the best values for linear regression . It use case though can be used on other models other than linear regression . It is calculated using the deravitive of the gradient and yintercept values of linear regression and finding the minimum value . To get a better grip on this matter use the link : 
-https://www.youtube.com/watch?v=sDv4f4s2SB8&t=1s
+https://www.youtube.com/watch?v=sDv4f4s2SB8&t=0s
 The link give a very good explanation on gradient descent . 
 
 Explaning the code .
